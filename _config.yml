@@ -10,4 +10,4 @@ permalink: /posts/:title
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
