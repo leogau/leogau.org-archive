@@ -72,6 +72,21 @@ ul.posts {
     font-size: 80%;
   }
 
+  ul.projects {
+    list-style-type: none;
+    margin-bottom: 2em;
+  }
+
+  ul.projects li {
+    line-height: 1.75em;
+  }
+
+  ul.projects span {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+  }
+
 /*****************************************************************************/
 /*
 /* Site
